@@ -1,0 +1,866 @@
+#EXTM3U
+
+#EXTINF:-1,[MM] MGZINMINLWIN
+
+http://ns5025893.ip-15-235-212.net:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
+
+#EXTINF:-1,[MM] Mahar Bhawdi
+
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1,[MM] MRTV-4 HD
+
+https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1,[MM] MRTV-4 SD
+
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w749853444.m3u8
+
+#EXTINF:-1,[MM] Channel-7 HD
+
+https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+
+#EXTINF:-1,[MM] Channel-7 SD
+
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
+
+#EXTINF:-1,[MM] Mahar
+
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+
+#EXTINF:-1,[MM] Mahar Esport
+
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1,[MM] Channel-K
+
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+
+#EXTINF:-1,[MM] FortuneTv
+
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+#EXTINF:-1,[MM] 5Plus
+
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
+
+#EXTINF:-1,[MM] MSC Movie
+
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1,[MM] TVM
+
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,[MM] MVMTv
+
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+
+#EXTINF:-1,[MM] MITV
+
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
+
+#EXTINF:-1,[MM] MNTV
+
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1,[MM] MRTV Entertainment
+
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
+
+#EXTINF:-1,[MM] Music
+
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1,[MM] Light
+
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1,[MM] Golden Land
+
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1,[MM] MRTV
+
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+
+#EXTINF:-1,[MM] MRTV NRC
+
+https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
+
+#EXTINF:-1,[MM] MRTV Hluttaw
+
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
+
+#EXTINF:-1,[MM] MWD HD
+
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1,[MM] MWD Variety
+
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1,[MM] MWD School
+
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+
+
+#EXTINF:-1,[SPORT] SetantaSports1
+
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+
+#EXTINF:-1,[SPORT] SetantaSports2
+
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,[SPORT] True EPL1
+
+https://edge2.laotv.la/live/TSport1/sc-gaFECQ/v1_index.m3u8
+
+#EXTINF:-1,[SPORT] True EPL2
+
+https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
+
+#EXTINF:-1,[SPORT] True Bin1
+
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v1_index.m3u8
+
+#EXTINF:-1,[SPORT] True Bin2
+
+https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v1_index.m3u8
+
+
+
+#EXTINF:-1,[SPORT] K+Sport1
+
+http://b4tv.live/b4tv/b4tv/20.m3u8
+
+
+
+#EXTINF:-1,[SPORT] SS SELECT1
+
+http://myanmar.webhop.me/live/17524/03503/1070.m3u8
+
+#EXTINF:-1,[SPORT] SS SELECT2
+
+http://myanmar.webhop.me/live/17524/03503/1071.m3u8
+
+#EXTINF:-1,[SPORT] Sky Football
+
+http://myanmar.webhop.me/live/17524/03503/2093.m3u8
+
+#EXTINF:-1,[SPORT] Sky MainEvent
+
+http://myanmar.webhop.me/live/17524/03503/2091.m3u8
+
+#EXTINF:-1,[SPORT] Sky PremierLeague
+
+http://myanmar.webhop.me/live/17524/03503/2092.m3u8
+
+
+
+#EXTINF:-1,[SPORT] TNT Sport1
+
+http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
+
+#EXTINF:-1,[SPORT] TNT Sport2
+
+http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+
+#EXTINF:-1,[SPORT] TNT Sport3
+
+http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
+
+
+
+#EXTINF:-1,[SPORT] ESPN1
+
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1,[SPORT] ESPN2
+
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1,[SPORT] ESPN3
+
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+
+
+#EXTINF:-1,[SPORT] AioSport1
+
+https://tv.ayas.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1,[SPORT] AioSport2
+
+https://tv.ayas.ir/hls/aiosport2/aiosport2.m3u8
+
+
+
+#EXTINF:-1,[SPORT] PremierSport1
+
+http://202.21.104.6:88/sps-prime/index.m3u8
+
+#EXTINF:-1,[SPORT] PremierSport2
+
+http://202.21.104.6:88/sps-play/index.m3u8
+
+
+
+#EXTINF:-1,[SPORT] PPTVHD36
+
+http://198.16.100.90:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
+
+#EXTINF:-1,[SPORT] RCTI
+
+http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+
+#EXTINF:-1,[SPORT] TVRI
+
+http://198.16.100.90:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&tsum=9a00b24e2d7d7ac6a58ce692c2147e2e
+
+#EXTINF:-1,[SPORT] MATCH TV
+
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1,[SPORT] MATCH FUTBOL3
+
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,[SPORT] MATCH Premier
+
+https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,[SPORT] ITV1
+
+http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
+
+#EXTINF:-1,[SPORT] FOX Sport1
+
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1,[SPORT] FOX Sport2
+
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1,[SPORT] FOX Sport3
+
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1,[SPORT] MUTV
+
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1,[SPORT] RealMadridTv
+
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1,[SPORT] FIFA Tv
+
+https://d2anxt9uu5yxtz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/c48642e9-8744-4505-b38b-3441bf2cf6bb/3.m3u8
+
+#EXTINF:-1,[SPORT] TycSport
+
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1,[SPORT] Bosisport1
+
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+
+#EXTINF:-1,[SPORT] Bosisport2
+
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+
+#EXTINF:-1,[SPORT] TennisChannel
+
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+
+#EXTINF:-1,[SPORT] GolfChannel
+
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+
+#EXTINF:-1,[SPORT] Golf1
+
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+
+#EXTINF:-1,[SPORT] TvN Sport
+
+https://0796317fc8764af68a3a7fa3c9a72bc3.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/f4b816ba-bcb6-4a0f-9389-278990bd1ccd/2.m3u8
+
+#EXTINF:-1,[SPORT] FIGHT
+
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1,[SPORT] BBC ONE
+
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+
+#EXTINF:-1,[SPORT] BBC TWO
+
+http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+
+
+
+
+
+#EXTINF:-1,[MOVIE] AXN
+
+http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+
+#EXTINF:-1,[MOVIE] Cinemax
+
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+
+#EXTINF:-1,[MOVIE] HBO Famlly
+
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+
+#EXTINF:-1,[MOVIE] HBO2
+
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1,[MOVIE] MovieSphere
+
+https://dxazj2uf8uiwf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/e2828c0c-8de5-499b-83ea-f1ff15219c79/2.m3u8
+
+#EXTINF:-1,[MOVIE] MovieClub
+
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/60e1114a-ec0d-4258-bccf-c3a3170807be/2.m3u8
+
+#EXTINF:-1,[MOVIE] TvnMovie
+
+http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+
+#EXTINF:-1,[MOVIE] XingweiMovie
+
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+
+#EXTINF:-1,[MOVIE] MeiyaMovie
+
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
+#EXTINF:-1,[MOVIE] StarVijay
+
+http://198.16.100.90:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+
+#EXTINF:-1,[MOVIE] ZeeTv
+
+http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
+
+#EXTINF:-1,[MOVIE] SONY MOVIE
+
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+
+
+
+#EXTINF:-1,[THUTA] NASATV
+
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1,[THUTA] LoveNature
+
+http://198.16.100.90:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+
+#EXTINF:-1,[THUTA] Animalplanet
+
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+
+#EXTINF:-1,[THUTA] Outdoor
+
+http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+
+#EXTINF:-1,[THUTA] BBC Earth
+
+https://d14kv1o37h8tfu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lnty50u34issh/3473529d-91ea-454c-a370-3e614ee80b03/1.m3u8
+
+
+
+#EXTINF:-1,[KIDS] MoonBug
+
+https://d30kp0xfvvs2gr.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/e07ad8a9-5441-489b-bc44-c848af6777c7/2.m3u8
+
+#EXTINF:-1,[KIDS] Builder
+
+https://d5p4yrsj1j0r2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9tvw1yz1s0fnu-ssai-prd/4a1e495d-3dcf-489a-91de-48c7f74a9093/4.m3u8
+
+#EXTINF:-1,[KIDS] Slugterra
+
+https://d15qoj1rc2gpo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9y6p6tr7b6x8/944f4fb5-7fc4-4d88-9894-70b163729a16/0.m3u8
+
+#EXTINF:-1,[KIDS] ZooMoo
+
+https://did04mu4z77ga.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-iboc5f175mel5-ssai-prd/ff72cf24-9a71-46ac-be90-f52aa0b2dfcf/2.m3u8
+
+#EXTINF:-1,[KIDS] HappyKids
+
+https://dil9xdvretp0f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lvyttqbp48klm/a8249690-a1c1-46f2-846b-74329eca4a45/1.m3u8
+
+#EXTINF:-1,[KIDS] Nickelodeon
+
+http://198.16.100.90:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
+
+#EXTINF:-1,[KIDS] NickJr
+
+http://198.16.100.90:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
+
+#EXTINF:-1,[KIDS] CN Network
+
+http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
+
+#EXTINF:-1,[KIDS] DuckTv
+
+https://dxvpcwoxxgnqg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sakdd2jiy1b8-ssai-prd/d1f7fc7a-9d6d-4ff4-8a93-95b01e3fcf42/1.m3u8
+
+
+
+#EXTINF:-1,[NEWS] CGTN
+
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1,[NEWS] CNA
+
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
+
+#EXTINF:-1,[NEWS] AlJazeera
+
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,[NEWS] CNN
+
+https://dhzhj55w8hou6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/dc50f1d1-d98a-4ed3-aa49-36942acc9900/2.m3u8
+
+#EXTINF:-1,[NEWS] SkyNews
+
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+
+https://t.ly/rnaZT
+
+#EXTM3U
+
+#EXTINF:-1,Myatko_IPTV_HOME
+https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheRoundup
+http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ThorGodofThunder2022
+http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",DoctorStrange
+http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Interceptor
+http://www.zegomovie.com/Videos/Interceptor/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Major2022
+http://www.zegomovie.com/Videos/Major/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Jurassic World2022
+http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BlowBlack2022
+http://www.zegomovie.com/Videos/Blowback/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",IronCross TheRoadNormandy2022
+http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Beast2022
+http://www.zegomovie.com/Videos/Beast2022/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",KGFChapter2
+http://www.zegomovie.com/Videos/KGFChapter2/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",9Bullets
+http://www.zegomovie.com/Videos/9Bullets/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Ghani2022
+http://www.zegomovie.com/Videos/Ghani/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheVault2021
+http://www.zegomovie.com/Videos/TheVault/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheLostCity
+http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Uncharted
+http://www.zegomovie.com/Videos/Uncharted/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",OhMyDog
+http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",EtharkkumThunindhavan
+http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",SuperMachi
+http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Morbius
+http://www.zegomovie.com/Videos/Morbius/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",RRR
+http://www.zegomovie.com/Videos/RRR/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Restless
+http://www.zegomovie.com/Videos/Restless/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",AnotherMe
+http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",AManCalledHero
+http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",GasolineAlley
+http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ProjectGemini
+http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Vesper2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Hunt2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BulletTrain2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Poikkalkuthirai
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",PonManickavel 
+http://www.zegomovie.com/Videos/PonManickavel/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ArmyofThieves2021
+http://www.zegomovie.com/Videos/ArmyofThieves/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",QueensReturn2021
+http://www.zegomovie.com/Videos/QueensReturn/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Rudra Thandavam2021
+http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheEast2021
+http://www.zegomovie.com/Videos/TheEast/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",SpiderManNoWayHome2021
+http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",HomeSweetHome2021
+http://www.zegomovie.com/Videos/HomeSweetHome/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",NightRaiders2021
+http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",RedNotice2021
+http://www.zegomovie.com/Videos/RedNotice/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",No Time to Die 2021
+http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Venom2 
+http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",RgingFire2021
+http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Flight2021
+http://www.zegomovie.com:80/Videos/Flight/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",ShowMetheGhost
+http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheStronghold2021
+http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",FREE GUY 2021
+http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BellBottom2021
+http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BreakThrough2021
+http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",The Medium2021
+http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Kaadan2021
+http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",SINK HOLE 2021
+http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TheCardCounter2021
+http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",NIGHT BOOK2021
+http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",PawPatrol2021
+http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",The Protege2021
+http://www.zegomovie.com/Videos/TheProtege/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",The Rebal of PT218
+http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Sherni 2021
+http://www.zegomovie.com/Videos/Sherni/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",BhootPoolice2021
+http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",TuckJagadish2021
+http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Kate2022
+http://www.zegomovie.com/Videos/Kate/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES",Pele2021
+http://www.zegomovie.com/Videos/Pele/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES2
+http://www.zegomovie.com/Videos/HereandThere/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES1
+http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
+
+#EXTINF:-1,MMSUB_MissionRescue
+http://www.zegomovie.com/Videos/MissionRescue72/index.m3u8
+
+#EXTINF:-1,MMSUB_The Oder
+http://www.zegomovie.com/Videos/TheOrder01/index.m3u8
+
+#EXTINF:-1,MMSUB_Dhoomam23
+http://www.zegomovie.com/Videos/Dhoomam23/index.m3u8
+
+#EXTINF:-1,MMSUB_XTremeRiders23
+http://www.zegomovie.com/Videos/XTremeRiders23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheOldOak
+http://www.zegomovie.com/Videos/TheOldOak23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheAbode
+http://www.zegomovie.com/Videos/TheAbode23/index.m3u8
+
+#EXTINF:-1,MMSUB_FightsBreakSphere
+http://www.zegomovie.com/Videos/FightsBreakSphere23/index.m3u8
+
+#EXTINF:-1,MMSUB_InTheLand
+http://www.zegomovie.com/Videos/InTheLandOfSaintsAndSinners23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheSquad23
+http://www.zegomovie.com/Videos/TheSquad23/index.m3u8
+
+#EXTINF:-1,MMSUB_CatPerson23
+http://www.zegomovie.com/Videos/CatPerson23/index.m3u8
+
+#EXTINF:-1,MMSUB_Inkheart
+http://www.zegomovie.com/Videos/Inkheart/index.m3u8
+
+#EXTINF:-1,MMSUB_THEWILD23
+http://www.zegomovie.com/Videos/THEWILD23/index.m3u8
+
+#EXTINF:-1,MMSUB_Transporter3
+http://www.zegomovie.com/Videos/Transporter3/index.m3u8
+
+#EXTINF:-1,MMSUB_BlackDemon
+http://www.zegomovie.com/Videos/The%20Black%20Demon/index.m3u8
+
+#EXTINF:-1,MMSUB_WORLD WARZ
+http://www.zegomovie.com/Videos/WORLDWARZ/index.m3u8
+
+#EXTINF:-1,MMSUB_WesternFront
+http://www.zegomovie.com/Videos/AllQuietontheWesternFront/index.m3u8
+
+#EXTINF:-1,MMSUB_Lost Flower
+http://www.zegomovie.com/Videos/LostFlowerEoWoodong/index.m3u8
+
+#EXTINF:-1,MMSUB_Moscow Mission
+http://www.zegomovie.com/Videos/MoscowMission23/index.m3u8
+
+#EXTINF:-1,MMSUB_Princess Sakura
+http://www.zegomovie.com/Videos/PrincessSakuraForbiddenPleasures/index.m3u8
+
+#EXTINF:-1,MMSUB_Spark Life
+http://www.zegomovie.com/Videos/SparkLIFE23/index.m3u8
+
+#EXTINF:-1,MMSUB_Bad Boy
+http://www.zegomovie.com/Videos/BadBoysII03/index.m3u8
+
+#EXTINF:-1,MMSUB_The Mist
+http://www.zegomovie.com/Videos/TheMist/index.m3u8
+
+#EXTINF:-1,MMSUB_Fallen Angels
+http://www.zegomovie.com/Videos/fallenangels/index.m3u8
+
+#EXTINF:-1,MMSUB_Schumacher
+http://www.zegomovie.com/Videos/Schumacher21/index.m3u8
+
+#EXTINF:-1,MMSUB_Joy
+http://www.zegomovie.com/Videos/Joy/index.m3u8
+
+#EXTINF:-1,MMSUB_Operation Black
+http://www.zegomovie.com/Videos/OperationBlackOps23/index.m3u8
+#EXTINF:-1,MMSUB_Magiske
+http://www.zegomovie.com/Videos/JulemandensDatter3DenMagiskeTidsmaskine22/index.m3u8
+
+#EXTINF:-1,MMSUB_TayloSwift
+http://www.zegomovie.com/Videos/TayloSwiftTheErasTour23/index.m3u8
+
+#EXTINF:-1,MMSUB_WolfGardeb
+http://www.zegomovie.com/Videos/WolfGarden/index.m3u8
+
+#EXTINF:-1,MMSUB_Super Cop
+http://www.zegomovie.com/Videos/Supercop293/index.m3u8
+
+#EXTINF:-1,MMSUB_The Grifters
+http://www.zegomovie.com/Videos/TheGrifters90/index.m3u8
+
+#EXTINF:-1,MMSUB_FreeLance
+http://www.zegomovie.com/Videos/Freelance23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheSniper
+http://www.zegomovie.com/Videos/TheSniper23/index.m3u8
+
+#EXTINF:-1,MMSUB_Squealer
+http://www.zegomovie.com/Videos/Squealer23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheSalvation
+http://www.zegomovie.com/Videos/TheSalvation14/index.m3u8
+
+#EXTINF:-1,MMSUB_OKkashanam
+http://www.zegomovie.com/Videos/OkkaKshanam17/index.m3u8
+
+#EXTINF:-1,MMSUB_BraveCitizen
+http://www.zegomovie.com/Videos/BraveCitizen23/index.m3u8
+
+#EXTINF:-1,MMSUB_BlackNoise
+http://www.zegomovie.com/Videos/BlackNoise23/index.m3u8
+
+#EXTINF:-1,MMSUB_Juan of The11
+http://www.zegomovie.com/Videos/JuanOfThe11/index.m3u8
+
+#EXTINF:-1,MMSUB_TheProtector
+http://www.zegomovie.com/Videos/TheProtector85/index.m3u8
+
+#EXTINF:-1,MMSUB_Gost
+http://www.zegomovie.com/Videos/Ghost23/index.m3u8
+
+#EXTINF:-1,MMSUB_TigerNageswar Rao
+http://www.zegomovie.com/Videos/TigerNageswaraRao23/index.m3u8
+
+#EXTINF:-1,MMSUB_TheCorruptor
+http://www.zegomovie.com/Videos/TheCorruptor99/index.m3u8
+
+#EXTINF:-1,MMSUB_KnuckleGirl
+http://www.zegomovie.com/Videos/KnuckleGirl23/index.m3u8
+
+#EXTINF:-1,MMSUB_ControlZeta
+http://www.zegomovie.com/Videos/ControlZeta23/index.m3u8
+
+#EXTINF:-1,MMSUB_SkyLine
+http://www.zegomovie.com/Videos/Skyline10/index.m3u8
+
+#EXTINF:-1,**Football_Sport**
+http://supersonictv.live:8080/419094/970686/86873
+
+#EXTINF:-1,**VIP_Sport**
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1,**VIP_Sport 2**
+http://176.119.29.52/live/00:1A:79:92:98:E5/SN_1697176356/301.m3u8
+
+#EXTINF:-1,Sony Ten 1
+http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
+
+#EXTINF:-1,Sony Ten 2
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+
+#EXTINF:-1,Sony Ten 3
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+
+#EXTINF:-1,LALIGA Live Sport
+http://103.113.116.150:25461/mtm1/12345/47
+
+#EXTINF:-1,OPTUS Sport 2Live
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:-1,OPTUS Sport 3Live SD
+http://103.113.116.150:25461/mtm1/12345/49
+
+#EXTINF:-1,ten sports HD BPL
+http://176.119.29.52/live/00:1A:79:92:98:E5/SN_1697176356/301.m3u8
+
+#EXTINF:-1,Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1,PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+
+#EXTINF:-1,Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1,Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1,All sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1,CCTV 5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1,CCTV 5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1,RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+
+#EXTINF:-1,KSA Sport 1
+https://edge.taghtia.com/sa/9.m3u8
+
+#EXTINF:-1,KSA Sport 2
+https://edge.taghtia.com/sa/10.m3u8
+
+#EXTINF:-1,KSA Sport 3
+https://edge.taghtia.com/sa/16.m3u8
+
+#EXTINF:-1,JOJ Sport
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+
+#EXTINF:-1,Dubai Sport 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1,Dubai Sport 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1,Sharjah Sport 3
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1,Sport2U
+https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+
+#EXTINF:-1,Sport Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,Pluto Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Paramount Movie
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Pluto TV Sportlight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Pluto TV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
