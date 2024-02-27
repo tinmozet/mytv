@@ -50,6 +50,9 @@ http://146.59.54.163/358/index.m3u8
 
 http://146.59.54.163/361/index.m3u8
 
+#EXTINF:-1,EXXX
+http://146.59.54.163/362/index.m3u8
+
 #EXTINF:-1,XXL TV
 
 http://146.59.54.163/363/index.m3u8
