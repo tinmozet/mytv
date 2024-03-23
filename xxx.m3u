@@ -225,8 +225,8 @@ https://epg.pw/stream/6260dfbd530c2e36b9f0b93754bf0a633d2abff4e4956e0998da56e185
 #EXTINF:-1,xxl
 https://epg.pw/stream/becee4c87dda5021e92cac7e9dd7ba49569559efce80140a4cde0884fba1be56.m3u8
 
-
-
+#EXTINF:-1,xxxmobile
+http://168.227.22.18:1935/live/mobile-125/playlist.m3u8
 
 
 
