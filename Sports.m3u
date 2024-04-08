@@ -1,5 +1,20 @@
-
 #EXTM3U
+#EXTINF:-1,SkySportsCri
+https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
+#EXTINF:-1,SkySportsFoot
+https://freeiptv25.netlify.app/live/bdix/app/SkySportsFoot.m3u8
+#EXTINF:-1,SkySportsF1
+https://freeiptv25.netlify.app/live/bdix/app/SkySportsF1.m3u8
+#EXTINF:-1,SkySportsMain
+https://freeiptv25.netlify.app/live/bdix/app/SkySportsMain.m3u8
+#EXTINF:-1,SkySportsPre
+https://freeiptv25.netlify.app/live/bdix/app/SkySportsPre.m3u8
+#EXTINF:-1,StarSport1
+http://103.99.249.139/starsport1/index.m3u8
+#EXTINF:-1,BEIN sports 1 
+
+https://bb.mackalitetv5.site/volestream/bein-sports-1.m3u8
+
 #EXTINF:-1,BEIN sports 2
 
 https://bb.mackalitetv5.site/volestream/bein-sports-2.m3u8
